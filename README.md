@@ -17,7 +17,9 @@ $ root -b
 
 [0].L RPC_Analyzer.C
 
-[1]RPC_Analyzer()
+[1] RPC_Analyzer()
+
+[2] .q
 
 **Note:** you can ignore these warnings:
 
