@@ -1,6 +1,6 @@
 # Wellcome to this repository
 
-////////------------------- Instruction for running this analysis script-----------/////////////
+Instruction for running this analysis script.
 
 **A example using nanoAOD MuonDPGNtuples**
 
