@@ -4,6 +4,8 @@
 
 **A example using nanoAOD MuonDPGNtuples**
 
+$ git clone https://github.com/Silas-SJ/RPC_Silas.git
+
 # How to find the dataset?
 For the analysis an ntuple in EOS is used, after logging into your lxplus account one can find the dataset in the path below:
 
