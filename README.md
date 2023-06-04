@@ -7,9 +7,11 @@ Instruction for running this analysis script.
 
 
 # How to find the dataset?
-For the analysis an ntuple in EOS is used, after logging into your lxplus account one can find the dataset in the path below:
+- For this analysis a ntuple in EOS is used. One can be logging into your lxplus account and:
 
 $ git clone https://github.com/Silas-SJ/RPC_Silas.git
+
+- After logging into your lxplus account one can find the dataset in the path below:
 
 $ ls /eos/cms/store/group/dpg_muon/MuonDPGNtuples/validation//MuDPGNtuple_nanoAOD_Run2033A_Express_900GeV_20230419.root
 
