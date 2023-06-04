@@ -19,7 +19,7 @@ $ root -b
 
 [1]RPC_Analyzer()
 
-*Note:* you can ignore these warnings:
+**Note:** you can ignore these warnings:
 
 Warning in <TClass::Init>: no dictionary for class edm::Hash<1> is available
 
