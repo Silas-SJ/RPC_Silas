@@ -1,7 +1,8 @@
 # Wellcome to this repository
 
 ////////------------------- Instruction for running this analysis script-----------/////////////
-**A analysis examples using nanoAOD MuonDPGNtuples**
+
+**A example using nanoAOD MuonDPGNtuples**
 
 # How to find the dataset?
 For the analysis an ntuple in EOS is used, after logging into your lxplus account one can find the dataset in the path below:
