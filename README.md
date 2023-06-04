@@ -22,9 +22,13 @@ $ root -b
 *Note:* you can ignore these warnings:
 
 Warning in <TClass::Init>: no dictionary for class edm::Hash<1> is available
+
 Warning in <TClass::Init>: no dictionary for class edm::ParameterSetBlob is available
+
 Warning in <TClass::Init>: no dictionary for class edm::ProcessHistory is available
+
 Warning in <TClass::Init>: no dictionary for class edm::ProcessConfiguration is available
+
 Warning in <TClass::Init>: no dictionary for class pair<edm::Hash<1>,edm::ParameterSetBlob> is availabl
 
 # What is the output?
