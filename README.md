@@ -44,6 +44,6 @@ Warning in <TClass::Init>: no dictionary for class pair<edm::Hash<1>,edm::Parame
 
 # Additional information
 
-- The run number associated with this dataset is 367553 and the corresponding energy is 900GeV.
+- The run number associated with this dataset is 367553 and the corresponding energy is 13.6 TeV.
 
 - Both RecHit and clustersize histograms are associated with muons.
